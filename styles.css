@@ -1,0 +1,29 @@
+
+body {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  background-color: #092D51;
+  /* font-family: 'Montserrat', sans-serif; */
+}
+
+h1 {
+  margin-top: 3%;
+  font-weight: bold;
+  color: #F3EE7B;
+}
+
+h2 {
+  line-height: 1.5;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.carousel-item {
+  padding: 12% 15%;
+  color: #878B8F;
+}
+
+.carousel-item h3 {
+  text-align: right;
+  margin-top: 5%;
+}
